@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "766533662242",
+    "project_id": "tennisquizgame",
+    "storage_bucket": "tennisquizgame.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766533662242:android:ea372df5859daf7584fc7b",
+        "android_client_info": {
+          "package_name": "com.example.tennisquizgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766533662242-7j8vnrg5rjb2i12il09u6kf349g5s0ls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXMY4nxjAhyiSlPmdSXyYfjLvRVV5m1bA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766533662242-7j8vnrg5rjb2i12il09u6kf349g5s0ls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
