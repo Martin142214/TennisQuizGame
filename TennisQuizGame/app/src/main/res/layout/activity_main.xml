@@ -32,7 +32,7 @@
         android:layout_margin="20dp"
         android:textSize="20dp"
         android:text="Play the quiz"
-
+        android:onClick="playTheQuiz"
         />
 
     <Button
@@ -44,6 +44,7 @@
         android:textSize="15dp"
         android:textStyle="bold"
         android:text="Add Word"
+        android:onClick="addNewWord"
         />
 
 </LinearLayout>
